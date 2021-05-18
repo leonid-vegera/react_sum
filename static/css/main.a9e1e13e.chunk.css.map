@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAGA,SACE,UAJS,CAGX,eAGI,WAAY,CACZ,UANS","file":"main.a9e1e13e.chunk.css","sourcesContent":["$grey: grey;\n$black: black;\n\n.Numbers {\n  color: $grey;\n  &:hover {\n    cursor: help;\n    color: $black;\n  }\n}\n"]}
